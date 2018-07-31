@@ -7,10 +7,10 @@
 - Nationality :: Dutch
 - Gender :: Male
 - Kids :: 3
-- Wife :: 1
+- Married :: Yes
 - Dogs :: 1
 - Cats :: 2
-- Hobbies :: ∞
+- Interests :: Tabletop Games, Card games & Gadgets
 
 * Skillset
 ** Nowadays
