@@ -31,9 +31,9 @@
 
 * Weapons of choice
 ** Nowadays
-- Emacs
-- Linux
-- Git (+ Magit/Github/Gitlab)
+- Emacs (+ org-mode, elisp)
+- Linux (Alpine & Ubuntu)
+- Git (+ Magit, Github & Gitlab)
 
 ** Previously
 - XCode
