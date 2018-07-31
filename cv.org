@@ -1,0 +1,70 @@
+#+TITLE: Curricilum Vitea
+#+SUBTITLE: Jeroen Faijdherbe
+
+* Me
+- Name :: Jeroen Faijdherbe
+- Since :: 05-03-1983
+- Nationality :: Dutch
+- Gender :: Male
+- Kids :: 3
+- Wife :: 1
+- Dogs :: 1
+- Cats :: 2
+- Hobbies :: ∞
+
+* Skillset
+** Nowadays
+- PHP 7.x
+- MySQL
+- REST API development
+- Docker
+- Scrummaster
+
+** Previously
+- ObjectiveC
+- Java
+- Android
+- PHP 3 - 5.6
+- Javascript
+- HTML
+- CSS
+
+* Weapons of choice
+** Nowadays
+- Emacs
+- Linux
+- Git (+ Magit/Github/Gitlab)
+
+** Previously
+- XCode
+- Sublime text
+- Eclipse
+- Mac/OS X
+- Adobe Photoshop
+- MS Office
+
+* Education
+- Mediatechnologie (HBO) @ Hogeschool Utrecht
+- Technische Informatica (MBO) @ Regio College Purmerend/Zaandam
+
+* Jobs
+- Scrummaster @ The Others Online (since 2017)
+- Software Architect @ The Others Online (since 2015)
+- Developer/Owner @ Coding Dutchmen (2008 - 2014)
+
+* Projects
+** The Others Online
+*** Incrowd Pro REST API (since 2015)
+*** Incrowd Pro iOS App (2015)
+** Coding Dutchmen
+*** Presto
+*** Rabobank sport apps
+- iTour
+- ZinInGoud
+- WKHockey
+- RaboSport
+
+* Todo
+- [ ] Increase knowlegde in Emacs Lisp
+- [ ] Increase Scrummaster skills
+- [ ] Develop own game (either tabletop or digital)
