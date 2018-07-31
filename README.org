@@ -63,8 +63,3 @@
 - ZinInGoud
 - WKHockey
 - RaboSport
-
-* Todo
-- [ ] Increase knowlegde in Emacs Lisp
-- [ ] Increase Scrummaster skills
-- [ ] Develop own game (either tabletop or digital)
